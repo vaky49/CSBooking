@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207667700413",
+    "firebase_url": "https://csbooking-e6eef.firebaseio.com",
+    "project_id": "csbooking-e6eef",
+    "storage_bucket": "csbooking-e6eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207667700413:android:d7a7d00426291252",
+        "android_client_info": {
+          "package_name": "com.example.CSBooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207667700413-v1m8rpnm8101b35l6t8k3dnngiuh07fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CSBooking",
+            "certificate_hash": "2c5e34d6ffbc93da7bb11032308e2d289ed5dc9a"
+          }
+        },
+        {
+          "client_id": "207667700413-bf8lnsb48rd3ojgeu6f7iv49dg4tg1gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaEq3Ol65Tt9weJxkt-lED8YIbnZBQrrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207667700413-bf8lnsb48rd3ojgeu6f7iv49dg4tg1gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
