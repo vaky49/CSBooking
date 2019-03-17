@@ -103,7 +103,6 @@ public class DriverMapActivity extends FragmentActivity implements OnMapReadyCal
         mapFragment.getMapAsync(this);
 
 
-
         mCustomerInfo = (LinearLayout) findViewById(R.id.customerInfo);
 
         mCustomerProfileImage = (ImageView) findViewById(R.id.customerProfileImage);
