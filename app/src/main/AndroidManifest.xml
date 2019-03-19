@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.CSBooking.DriverLoginActivity" />
-        <activity android:name="com.example.CSBooking.CustomerLoginActivity" />
+
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -44,8 +44,6 @@
         <activity
             android:name="com.example.CSBooking.DriverMapActivity"
             android:label="@string/title_activity_driver_map" />
-        <activity android:name="com.example.CSBooking.CustomerMapActivity" />
-        <activity android:name="com.example.CSBooking.CustomerSettingsActivity" />
         <activity android:name="com.example.CSBooking.DriverSettingsActivity" />
         <activity android:name="com.example.CSBooking.HistoryActivity" />
         <activity android:name="com.example.CSBooking.HistorySingleActivity"></activity>
