@@ -5,28 +5,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/plugkar"
     android:id="@+id/rootLayout"
     tools:context="com.example.CSBooking.DriverLoginActivity">
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
-        android:gravity="center_horizontal"
-        android:orientation="vertical">
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:text="PlugKar"
-            android:textAlignment="center"
-            android:textColor="@android:color/white"
-            android:textSize="36sp" />
-    </LinearLayout>
 
 
     <TextView
